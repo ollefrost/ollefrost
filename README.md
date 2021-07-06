@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### sup 👋
+### sup ✌️
 
-I'm currently working on...
+I'm currently working on:
 
-🥒 `Hypickles` - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future.
+🥒 `Hypickles` (unreleased) - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future.
 
-📒 `Teyvat Codex` - A reimagined, enhanced API, wiki and community platform for Genshin Impact. 
+📒 `Teyvat Codex` (unreleased) - A reimagined, enhanced API, wiki and community platform for Genshin Impact. 
