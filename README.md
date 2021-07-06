@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Currently working on
+
+`Hypickles (url tba)` - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future.
+
+`Teyvat Codex (url tba)` - A reimagined, enhanced API, wiki and community platform for Genshin Impact. 
