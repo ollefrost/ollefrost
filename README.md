@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ollefrost/ollefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Currently working on
+### sup 👋
 
-`Hypickles (url tba)` - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future.
+I'm currently working on...
 
-`Teyvat Codex (url tba)` - A reimagined, enhanced API, wiki and community platform for Genshin Impact. 
+🥒 `Hypickles` - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future.
+
+📒 `Teyvat Codex` - A reimagined, enhanced API, wiki and community platform for Genshin Impact. 
