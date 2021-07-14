@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm currently working on:
 
-- 🍉 `Ye Dada!` (unreleased) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place.
+- 🍉 `Ye Dada!` (unreleased) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place
 
 ### Current Vibe:
 
