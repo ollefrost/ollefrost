@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 - 🍉 `Ye Dada!` (unreleased) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place
 
-### Current Vibe:
+### Current vibe:
 
 - 🚀 [`Svelte`](https://github.com/sveltejs/svelte) for feather-light frontend development; I've got my own [boilerplate](https://github.com/ollefrost/ollesvelte) too
 - 🎈 [`Vercel`](https://github.com/vercel/vercel) for devil-quick site deployment
 
-<!-- 🥒 `Hypickles` (unreleased) - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future.
+<!--
+⚡ `I'm On` (unreleased) - Specialised links for those who play specific games, or use specific sites
 
-📒 `Teyvat Codex` (unreleased) - A reimagined, enhanced API, wiki and community platform for Genshin Impact.  -->
+🥒 `Hypickles` (unreleased, hiatus) - A place to access a rich amount of live data of your favourite Minecraft servers, and what your friends are up to on them. Currently focused on Hypixel, may expand to other servers in the future
+
+📒 `Teyvat Codex` (unreleased, hiatus) - A reimagined, enhanced API, wiki and community platform for Genshin Impact
+-->
