@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm currently working on:
 
+- 🛎️ `Coinsink` (unreleased) - Real-time crypto faucet rotator
 - 🍉 `Ye Dada!` (unreleased) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place
 
 ### Current vibe:
