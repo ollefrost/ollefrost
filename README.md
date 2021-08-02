@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 ### I'm currently working on:
 
-- 🛎️ `Coinsink` (unreleased) - Real-time crypto faucet aggregator and rotator
-- 🍉 `Ye Dada!` (unreleased) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place
+- 🍉 `Ye Dada!` (unreleased, on hold) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place
+
+### I'm currently maintaining:
+
+- 🛎️ [`Coinsink`](https://www.coinsink.cc/) (beta) - Real-time crypto faucet aggregator and rotator
 
 ### Current vibe:
 
