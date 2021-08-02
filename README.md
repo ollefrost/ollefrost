@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🚀 [`Svelte`](https://github.com/sveltejs/svelte) for feather-light frontend development; I've got my own [boilerplate](https://github.com/ollefrost/ollesvelte)
 - 📜 [`MongoDB Atlas`](https://www.mongodb.com/cloud/atlas) for easy database hosting; I've got my own Express-powered [template](https://github.com/ollefrost/olleatlas)
-- 🎈 [`Vercel`](https://github.com/vercel/vercel) and [`Heroku`](https://github.com/heroku/cli) for devil-quick site and API deployment, respsectively
+- 🎈 [`Vercel`](https://github.com/vercel/vercel) and [`Heroku`](https://github.com/heroku/cli) for devil-quick site and API deployment, respectively
 
 <!--
 ⚡ `I'm On` (unreleased) - Specialised links for those who play specific games, or use specific sites
