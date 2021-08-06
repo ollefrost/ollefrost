@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### I'm currently maintaining:
 
-- 🛎️ [`Coinsink`](https://www.coinsink.cc/) (beta) - Real-time crypto faucet aggregator and rotator
+- 🛎️ [`Coinsink`](https://www.coinsink.cc/) (beta) - Real-time crypto faucet aggregator and rotator (follow [Coinsink's official Twitter](https://twitter.com/coinsink) for updates)
 
 ### Current vibe:
 
