@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 # sup ✌️
 
-### I'm currently working on:
+<!-- ### I'm currently working on: -->
 
-- 📔 `ollecss` (unreleased) - Tiny site to store all the posts related to the [ollecss YouTube channel](https://www.youtube.com/channel/UCBDopo8825exbqCH4N-nv5A).
 <!-- - 🔮 `Imon` (unreleased) - Social 'linktree', with a twist - 'Ko-Mon-Qi' system (collective value, platform cards, unique value), and heavily statistics-based -->
 <!-- - 🍉 `Ye Dada!` (unreleased, on hold) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place -->
 
 ### I'm currently maintaining:
 
 - 🛎️ [`Coinsink`](https://www.coinsink.cc/) (beta) - Real-time crypto faucet aggregator and rotator (follow [Coinsink's official Twitter](https://twitter.com/coinsink) for updates)
+- 📔 [`ollecss`](https://ollecss.vercel.app/) - Tiny site to store all the posts related to the [ollecss YouTube channel](https://www.youtube.com/channel/UCBDopo8825exbqCH4N-nv5A).
 
 ### Current vibe:
 
