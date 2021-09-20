@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 📒 `Teyvat Codex` (unreleased, hiatus) - A reimagined, enhanced API, wiki and community platform for Genshin Impact
 -->
 
-![](https://svgur.com/i/aMV.svg)
+<!-- ![](https://svgur.com/i/aMV.svg) -->
 
 ---
 
