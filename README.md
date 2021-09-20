@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ### I'm currently working on: -->
 
+- 🌊 `7seas` (unreleased) - Find where to watch anime & read manga (official & pirate platforms, ever-expanding platform database)
 <!-- - 🔮 `Imon` (unreleased) - Social 'linktree', with a twist - 'Ko-Mon-Qi' system (collective value, platform cards, unique value), and heavily statistics-based -->
 <!-- - 🍉 `Ye Dada!` (unreleased, on hold) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place -->
 
@@ -41,4 +42,4 @@ Here are some ideas to get you started:
 
 ---
 
-🍉 Last revised on August 2021 🍉
+🍉 Last revised on September 2021 🍉
