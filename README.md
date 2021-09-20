@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # sup ✌️
 
-<!-- ### I'm currently working on: -->
+### I'm currently working on:
 
 - 🌊 `7seas` (unreleased) - Find where to watch anime & read manga (official & pirate platforms, ever-expanding platform database)
 <!-- - 🔮 `Imon` (unreleased) - Social 'linktree', with a twist - 'Ko-Mon-Qi' system (collective value, platform cards, unique value), and heavily statistics-based -->
