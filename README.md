@@ -37,7 +37,7 @@ Currently on hold and under conceptualisation. 🍉 -->
 ![Sass](https://img.shields.io/badge/-Sass-cc7a96?style=for-the-badge&logo=sass&logoColor=white)
 ![JS](https://img.shields.io/badge/-JS-ddbd6c?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-73addd?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-8bb579?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-8bb579?style=for-the-badge&logo=node.js&logoColor=white)<br>
 ![Svelte](https://img.shields.io/badge/Svelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)
 ![Mongo](https://img.shields.io/badge/Mongo-79b285?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-e07b59?style=for-the-badge&logo=git&logoColor=white)
