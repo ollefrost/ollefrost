@@ -1,36 +1,47 @@
-<!--
-**ollefrost/ollefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # sup ✌️
 
-### I'm currently working on:
+### ᴡᴏʀᴋs
 
-- 🌊 `7seas` (unreleased) - Find where to watch anime/movies & read manga/novels (official/pirate/torrent platforms, ever-expanding platform database)
-<!-- - 🔮 `Imon` (unreleased) - Social 'linktree', with a twist - 'Ko-Mon-Qi' system (collective value, platform cards, unique value), and heavily statistics-based -->
-<!-- - 🍉 `Ye Dada!` (unreleased, on hold) - Trackable Genshin Impact primo codes, web events and possibly even more, in one tidy little place -->
+- ![7seas](https://img.shields.io/badge/Indev-7seas-708ed8?style=for-the-badge)<br>
+Find where to conveniently consume anime, movies, manga, novels, and other such forms of entertainment.<br>
+Connected to an ever-expanding database of official, pirate and torrent platforms. Official Twitter coming soon. 🌊
 
-### I'm currently maintaining:
+- [![Coinsink](https://img.shields.io/badge/Beta-Coinsink-818cd3?style=for-the-badge)](https://www.coinsink.cc/)<br>
+Real-time curated crypto faucet aggregator and rotator. Updates on [Twitter](https://twitter.com/coinsink). <br>
+Created to eliminate time-waste on unrewarding faucets, and to visualise faucet rotation. 🛎️
 
-- 🛎️ [`Coinsink`](https://www.coinsink.cc/) (beta) - Real-time crypto faucet aggregator and rotator (follow [Coinsink's official Twitter](https://twitter.com/coinsink) for updates)
-- 📔 [`ollecss`](https://ollecss.vercel.app/) - Tiny site to store all the posts related to the [ollecss YouTube channel](https://www.youtube.com/channel/UCBDopo8825exbqCH4N-nv5A).
+- [![OlleCSS](https://img.shields.io/badge/OlleCSS-92a572?style=for-the-badge)](https://ollecss.vercel.app/)<br>
+Tiny site to store all the posts related to the ollecss [YouTube channel](https://twitter.com/coinsink).<br>
+Effectively acts as a place to store and display external materials mentioned in videos. 📔
 
-### Current vibe:
+### ᴡᴏʀᴋs ᴏɴ ʜᴏʟᴅ
 
-- 🚀 [`Svelte`](https://github.com/sveltejs/svelte) for feather-light frontend development; I've got my own [boilerplate](https://github.com/ollefrost/ollesvelte)
-- 📜 [`MongoDB Atlas`](https://www.mongodb.com/cloud/atlas) for easy database hosting; I've got my own Express-powered [template](https://github.com/ollefrost/olleatlas)
-- 🎈 [`Vercel`](https://github.com/vercel/vercel) and [`Heroku`](https://github.com/heroku/cli) for devil-quick site and API deployment, respectively
+- ![Imon](https://img.shields.io/badge/Hold-Imon-ac7fc6?style=for-the-badge)<br>
+Social 'linktree', with a twist - 'Ko-Mon-Qi' system (collective value, platform cards, unique value), and heavily statistics-based.
+Current on hold and under conceptualisation. 🔮
+
+- ![Ye Dada](https://img.shields.io/badge/Hold-YeDada-8dad75?style=for-the-badge)<br>
+A tool and a platform for the Genshin Impact community.
+Currently on hold and under conceptualisation. 🍉
+
+### ᴠɪʙᴇ
+
+![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-6490e0?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-cc7a96?style=for-the-badge&logo=sass&logoColor=white)
+![JS](https://img.shields.io/badge/-JS-ddbd6c?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-73addd?style=for-the-badge&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-8bb579?style=for-the-badge&logo=node.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)
+![Mongo](https://img.shields.io/badge/Mongo-79b285?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-e07b59?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-6b97d6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
+
+### ʙᴏɪʟᴇʀᴘʟᴀᴛᴇs
+
+[![Ollesvelte](https://img.shields.io/badge/Ollesvelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/ollefrost/ollesvelte)
+[![Olleatlas](https://img.shields.io/badge/Olleatlas-79b285?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/ollefrost/olleatlas)
 
 <!--
 ⚡ `I'm On` (unreleased) - Specialised links for those who play specific games, or use specific sites
