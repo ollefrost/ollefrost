@@ -12,11 +12,13 @@ Connected to an ever-expanding database of official, pirate and torrent platform
 
 - [![Coinsink](https://img.shields.io/badge/Beta-Coinsink-818cd3?style=for-the-badge)](https://www.coinsink.cc/)<br>
 Real-time curated crypto faucet aggregator and rotator. Updates on [Twitter](https://twitter.com/coinsink). <br>
-Created to eliminate time-waste on unrewarding faucets, and to visualise faucet rotation. 🛎️
+Created to eliminate time-waste on unrewarding faucets, and to visualise faucet rotation.<br>
+Live at [coinsink.cc](https://www.coinsink.cc/). 🛎️
 
 - [![OlleCSS](https://img.shields.io/badge/OlleCSS-92a572?style=for-the-badge)](https://ollecss.vercel.app/)<br>
 Tiny site to store all posts related to the ollecss [YouTube channel](https://twitter.com/coinsink).<br>
-Effectively acts as a place to store and display external materials mentioned in videos. 📔
+Effectively acts as a place to store and display external materials mentioned in videos.<br>
+Live at [ollecss.vercel.app](https://ollecss.vercel.app/). 📔
 
 <!-- ### ᴡᴏʀᴋs ᴏɴ ʜᴏʟᴅ
 
