@@ -44,6 +44,8 @@ Currently on hold and under conceptualisation. 🍉 -->
 ![VS Code](https://img.shields.io/badge/-VSCode-6b97d6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ollefrost&layout=compact&theme=radical)
+
 ### ʙᴏɪʟᴇʀᴘʟᴀᴛᴇs
 
 [![Ollesvelte](https://img.shields.io/badge/Ollesvelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/ollefrost/ollesvelte)
