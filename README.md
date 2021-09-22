@@ -16,7 +16,7 @@ Created to eliminate time-waste on unrewarding faucets, and to visualise faucet 
 Live at [coinsink.cc](https://www.coinsink.cc/). 🛎️
 
 - [![OlleCSS](https://img.shields.io/badge/OlleCSS-92a572?style=for-the-badge)](https://ollecss.vercel.app/)<br>
-Tiny site to store all posts related to the ollecss [YouTube channel](https://twitter.com/coinsink).<br>
+Tiny site to store all posts related to the ollecss [YouTube channel](https://www.youtube.com/channel/UCBDopo8825exbqCH4N-nv5A).<br>
 Effectively acts as a place to store and display external materials mentioned in videos.<br>
 Live at [ollecss.vercel.app](https://ollecss.vercel.app/). 📔
 
