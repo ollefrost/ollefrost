@@ -15,7 +15,7 @@ Real-time curated crypto faucet aggregator and rotator. Updates on [Twitter](htt
 Created to eliminate time-waste on unrewarding faucets, and to visualise faucet rotation. 🛎️
 
 - [![OlleCSS](https://img.shields.io/badge/OlleCSS-92a572?style=for-the-badge)](https://ollecss.vercel.app/)<br>
-Tiny site to store all the posts related to the ollecss [YouTube channel](https://twitter.com/coinsink).<br>
+Tiny site to store all posts related to the ollecss [YouTube channel](https://twitter.com/coinsink).<br>
 Effectively acts as a place to store and display external materials mentioned in videos. 📔
 
 <!-- ### ᴡᴏʀᴋs ᴏɴ ʜᴏʟᴅ
