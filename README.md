@@ -35,13 +35,13 @@ Currently on hold and under conceptualisation. 🍉 -->
 ![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-6490e0?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-cc7a96?style=for-the-badge&logo=sass&logoColor=white)
-![JS](https://img.shields.io/badge/-JS-ddbd6c?style=for-the-badge&logo=javascript&logoColor=black)
+![JS](https://img.shields.io/badge/-JS-ddbd6c?style=for-the-badge&logo=javascript&logoColor=black)<br>
 ![jQuery](https://img.shields.io/badge/-jQuery-73addd?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-8bb579?style=for-the-badge&logo=node.js&logoColor=white)<br>
-![Svelte](https://img.shields.io/badge/Svelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-8bb579?style=for-the-badge&logo=node.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)<br>
 ![Mongo](https://img.shields.io/badge/Mongo-79b285?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-756da0?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)<br>
 ![Git](https://img.shields.io/badge/-Git-e07b59?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-6b97d6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
