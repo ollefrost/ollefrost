@@ -40,9 +40,10 @@ Currently on hold and under conceptualisation. 🍉 -->
 ![Node.js](https://img.shields.io/badge/-Node.js-8bb579?style=for-the-badge&logo=node.js&logoColor=white)<br>
 ![Svelte](https://img.shields.io/badge/Svelte-d17057?style=for-the-badge&logo=svelte&logoColor=white)
 ![Mongo](https://img.shields.io/badge/Mongo-79b285?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-756da0?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-e07b59?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-6b97d6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ollefrost&layout=compact&theme=radical&border_color=3f2a49)
 
