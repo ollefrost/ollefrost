@@ -15,8 +15,8 @@ Real-time curated crypto faucet aggregator and rotator. Updates on [Twitter](htt
 Created to eliminate time-waste on unrewarding faucets, and to visualise faucet rotation.<br>
 Live at [coinsink.cc](https://www.coinsink.cc/). 🛎️
 
-- ![Lefrost](https://img.shields.io/badge/Indev-lefrost-d8d6d6?style=for-the-badge)<br>
-Links, portfolio and personal curations. 🖋️
+<!-- - ![Lefrost](https://img.shields.io/badge/Indev-lefrost-d8d6d6?style=for-the-badge)<br>
+Links, portfolio and personal curations. 🖋️ -->
 
 - [![OlleCSS](https://img.shields.io/badge/OlleCSS-92a572?style=for-the-badge)](https://ollecss.vercel.app/)<br>
 Tiny site to store all posts related to the ollecss [YouTube channel](https://www.youtube.com/channel/UCBDopo8825exbqCH4N-nv5A).<br>
