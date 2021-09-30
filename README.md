@@ -8,7 +8,7 @@
 
 - ![7seas](https://img.shields.io/badge/Indev-7seas-708ed8?style=for-the-badge)<br>
 Find where to conveniently consume anime, movies, manga, novels, and other such forms of entertainment.<br>
-Connected to an ever-expanding database of official, pirate and torrent platforms. Official Twitter coming soon. 🌊
+Connected to an ever-expanding database of platforms. Official Twitter coming soon. 🌊
 
 - [![Coinsink](https://img.shields.io/badge/Beta-Coinsink-818cd3?style=for-the-badge)](https://www.coinsink.cc/)<br>
 Real-time curated crypto faucet aggregator and rotator. Updates on [Twitter](https://twitter.com/coinsink). <br>
