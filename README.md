@@ -6,6 +6,10 @@
 
 ### ᴡᴏʀᴋs
 
+- ![Webhunt](https://img.shields.io/badge/Indev-Webhunt-708ed8?style=for-the-badge)<br>
+Find a website you need, add a website you know.<br>
+Official Twitter coming soon. 🔭
+
 <!-- - ![7seas](https://img.shields.io/badge/Indev-7seas-708ed8?style=for-the-badge)<br>
 Find where to conveniently consume anime, movies, manga, novels, and other such forms of entertainment.<br>
 Connected to an ever-expanding database of platforms. Official Twitter coming soon. 🌊 -->
