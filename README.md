@@ -1,17 +1,17 @@
 ### ✌️
 
-### ᴡᴏʀᴋs:
+#### ᴡᴏʀᴋs:
 - 🔭 Webhunt (Coming soon) – Find a website you need, add a website you know
 - 🛎️ [Coinsink](https://www.coinsink.cc) – Crypto faucet aggregator and rotator; [Twitter](https://twitter.com/coinsink)
 
-### ᴍɪɴɪs:
+#### ᴍɪɴɪs:
 - 📔 [Ollecss](https://ollecss.vercel.app) – Posts and materials associated with the [Ollecss YouTube channel]()
 
-### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
+#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
 - 🍊 [Ollesvelte](https://github.com/ollefrost/ollesvelte) – Svelte boilerplate with Sass, routing, and other tweaks
 - 🍃 [Olleatlas](https://github.com/ollefrost/olleatlas) – Express-powered template to build APIs with MongoDB Atlas
 
-### ᴠɪʙᴇ:
+<!-- ### ᴠɪʙᴇ:
 ![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-6490e0?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-cc7a96?style=for-the-badge&logo=sass&logoColor=white)
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-e07b59?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-6b97d6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ollefrost&layout=compact&theme=radical&border_color=3f2a49)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ollefrost&layout=compact&theme=radical&border_color=3f2a49) -->
 
 ![Snake animation](https://github.com/ollefrost/ollefrost/blob/output/github-contribution-grid-snake.svg)
 
