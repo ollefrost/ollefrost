@@ -1,5 +1,4 @@
 ### ✌️
-##### creative – dev – founder – indie
 
 ### ᴡᴏʀᴋs:
 - 🔭 Webhunt (Coming soon) – Find a website you need, add a website you know
