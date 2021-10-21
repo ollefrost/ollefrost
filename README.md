@@ -1,15 +1,13 @@
 ### ✌️
 
-###### ᴡᴏʀᴋs:
-- 🔭 Webhunt (Coming soon) – Find a website you need, add a website you know
-- 🛎️ [Coinsink](https://www.coinsink.cc) – Crypto faucet aggregator and rotator; [Twitter](https://twitter.com/coinsink)
+###### ᴡᴏʀᴋs 
+🔭 Webhunt (Coming soon)
 
 ###### ᴍɪɴɪs:
-- 📔 [Ollecss](https://ollecss.vercel.app) – Posts and materials associated with the [Ollecss YouTube channel]()
+🛎️ [Coinsink](https://www.coinsink.cc) –– 📔 [Ollecss](https://ollecss.vercel.app)
 
 ###### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
-- 🍊 [Ollesvelte](https://github.com/ollefrost/ollesvelte) – Svelte boilerplate with Sass, routing, and other tweaks
-- 🍃 [Olleatlas](https://github.com/ollefrost/olleatlas) – Express-powered template to build APIs with MongoDB Atlas
+🍊 [Ollesvelte](https://github.com/ollefrost/ollesvelte) –– 🍃 [Olleatlas](https://github.com/ollefrost/olleatlas)
 
 <!-- ### ᴠɪʙᴇ:
 ![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +27,7 @@
 
 ![Snake animation](https://github.com/ollefrost/ollefrost/blob/output/github-contribution-grid-snake.svg)
 
-##### imon – [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ryankoroh) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/ryankoroh) • [Email](mailto:elcasaboxi@gmail.com) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://steamcommunity.com/id/ollefrost) • [Twitter](https://twitter.com/ollefrost) – oct 21
+##### imon –– [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ryankoroh) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/ryankoroh) • [Email](mailto:elcasaboxi@gmail.com) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://steamcommunity.com/id/ollefrost) • [Twitter](https://twitter.com/ollefrost) –– oct 21
 
 <!-- # sup ✌️
 
