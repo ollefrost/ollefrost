@@ -1,13 +1,13 @@
 ### ✌️
 
-#### ᴡᴏʀᴋs:
+###### ᴡᴏʀᴋs:
 - 🔭 Webhunt (Coming soon) – Find a website you need, add a website you know
 - 🛎️ [Coinsink](https://www.coinsink.cc) – Crypto faucet aggregator and rotator; [Twitter](https://twitter.com/coinsink)
 
-#### ᴍɪɴɪs:
+###### ᴍɪɴɪs:
 - 📔 [Ollecss](https://ollecss.vercel.app) – Posts and materials associated with the [Ollecss YouTube channel]()
 
-#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
+###### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
 - 🍊 [Ollesvelte](https://github.com/ollefrost/ollesvelte) – Svelte boilerplate with Sass, routing, and other tweaks
 - 🍃 [Olleatlas](https://github.com/ollefrost/olleatlas) – Express-powered template to build APIs with MongoDB Atlas
 
