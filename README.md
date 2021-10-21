@@ -1,18 +1,18 @@
 ### ✌️
 ##### creative – dev – founder – indie
 
-#### ᴡᴏʀᴋs:
+### ᴡᴏʀᴋs:
 - 🔭 Webhunt (Coming soon) – Find a website you need, add a website you know
 - 🛎️ [Coinsink](https://www.coinsink.cc) – Crypto faucet aggregator and rotator; [Twitter](https://twitter.com/coinsink)
 
-#### ᴍɪɴɪs:
+### ᴍɪɴɪs:
 - 📔 [Ollecss](https://ollecss.vercel.app) – Posts and materials associated with the [Ollecss YouTube channel]()
 
-#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
+### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ:
 - 🍊 [Ollesvelte](https://github.com/ollefrost/ollesvelte) – Svelte boilerplate with Sass, routing, and other tweaks
 - 🍃 [Olleatlas](https://github.com/ollefrost/olleatlas) – Express-powered template to build APIs with MongoDB Atlas
 
-#### ᴠɪʙᴇ:
+### ᴠɪʙᴇ:
 ![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-6490e0?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-cc7a96?style=for-the-badge&logo=sass&logoColor=white)
@@ -30,7 +30,7 @@
 
 ![Snake animation](https://github.com/ollefrost/ollefrost/blob/output/github-contribution-grid-snake.svg)
 
-##### imon – [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ryankoroh) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/ryankoroh) • [Email](mailto:elcasaboxi@gmail.com) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [Twitter](https://twitter.com/ollefrost) – oct 21
+##### imon – [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ryankoroh) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/ryankoroh) • [Email](mailto:elcasaboxi@gmail.com) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://steamcommunity.com/id/ollefrost) • [Twitter](https://twitter.com/ollefrost) – oct 21
 
 <!-- # sup ✌️
 
