@@ -2,7 +2,7 @@
 
 #### ᴡᴏʀᴋs: 🔭 Webhunt (Coming soon)
 #### ᴍɪɴɪs: [🛎️ Coinsink](https://www.coinsink.cc) [📔 Ollecss](https://ollecss.vercel.app)
-#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ: [👾 Ollecord](https://github.com/ollefrost/ollecord) [🍃 Olleatlas](https://github.com/ollefrost/olleatlas) [🍊 Ollesvelte](https://github.com/ollefrost/ollesvelte)
+#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ: [🍃 Olleatlas](https://github.com/ollefrost/olleatlas) [👾 Ollecord](https://github.com/ollefrost/ollecord) [🍊 Ollesvelte](https://github.com/ollefrost/ollesvelte)
 
 <!-- ### ᴠɪʙᴇ:
 ![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
