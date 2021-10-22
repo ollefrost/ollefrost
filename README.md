@@ -22,7 +22,7 @@
 
 ![Snake animation](https://github.com/ollefrost/ollefrost/blob/output/github-contribution-grid-snake.svg)
 
-##### imon –– [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ryankoroh) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/ryankoroh) • [Email](mailto:elcasaboxi@gmail.com) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://steamcommunity.com/id/ollefrost) • [Twitter](https://twitter.com/ollefrost) –– oct 21
+##### imon –– [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ryankoroh) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/ryankoroh) • [Email](mailto:elcasaboxi@gmail.com) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://open.spotify.com/user/gf4tasps3qmm1igne6th9wyj2) • [Twitter](https://twitter.com/ollefrost) –– oct 21
 
 <!-- # sup ✌️
 
