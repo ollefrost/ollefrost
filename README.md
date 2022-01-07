@@ -1,7 +1,7 @@
 ### ✌️
 <!-- [🔲 Ollegen](https://ollegen.vercel.app/)  -->
 
-#### ᴡᴏʀᴋs: ♟️ Solchess (Coming soon) 🔭 Webhunt (On hold)
+#### ᴡᴏʀᴋs: [♟️ Solchess](https://www.solchess.club/) 🔭 Webhunt (On hold)
 #### ᴍɪɴɪs: [🛎️ Coinsink](https://www.coinsink.cc) [🎉 Katuk Manang](https://katukmanang.vercel.app/) [🍵 NFTea](https://nftea-bot.vercel.app) [📔 Ollecss](https://ollecss.vercel.app)
 #### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ: [🍃 Olleatlas](https://github.com/ollefrost/olleatlas) [👾 Ollecord](https://github.com/ollefrost/ollecord) [🍊 Ollesvelte](https://github.com/ollefrost/ollesvelte)
 
