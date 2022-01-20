@@ -4,7 +4,7 @@
 
 #### ᴡᴏʀᴋs: 🔭 Webhunt (Indev)
 #### ᴍɪɴɪs: [🛎️ Coinsink](https://www.coinsink.cc) [🎉 Katuk Manang](https://katukmanang.vercel.app/) [🍵 NFTea](https://nftea-bot.vercel.app) [📔 Ollecss](https://ollecss.vercel.app) [🐣 Ollegen](https://ollegen.vercel.app/)
-#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ: [🍃 Olleatlas](https://github.com/ollefrost/olleatlas) [👾 Ollecord](https://github.com/ollefrost/ollecord) [🍊 Ollesvelte](https://github.com/ollefrost/ollesvelte)
+#### ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ: [🍃 Olleatlas](https://github.com/ollefrost/olleatlas) [👾 Ollecord](https://github.com/ollefrost/ollecord) [🌸 Ollesvelke](https://github.com/ollefrost/ollesvelke) [🍊 Ollesvelte](https://github.com/ollefrost/ollesvelte)
 
 <!-- ### ᴠɪʙᴇ:
 ![HTML](https://img.shields.io/badge/-HTML-e08660?style=for-the-badge&logo=html5&logoColor=white)
