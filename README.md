@@ -24,7 +24,9 @@
 
 ![Snake animation](https://github.com/ollefrost/ollefrost/blob/output/github-contribution-grid-snake.svg)
 
-##### imon –– [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ollefrost) • [Chess.com](https://www.chess.com/member/lefroste) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/lefrost) • [Email](mailto:elcasaboxi@gmail.com) • [GeoGuessr](https://www.geoguessr.com/user/5aa0a68b98cc2c9754e58ee2) • [MagicEden](https://magiceden.io/u/lefrost) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [OpenSea](https://opensea.io/lefrost) •  [Polywork](https://www.polywork.com/lefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://open.spotify.com/user/gf4tasps3qmm1igne6th9wyj2) • [StackOverflow](https://stackoverflow.com/users/8919391/lefrost) • [Twitter](https://twitter.com/ollefrost) • [Xiangqi.com](https://play.xiangqi.com/@lefrost) –– jan 22
+##### imon –– [Anilist](https://anilist.co/user/lefrost) • [Behance](https://www.behance.net/ollefrost) • [Chess.com](https://www.chess.com/member/lefroste) • [Discord](https://discords.com/bio/p/lefrost) • [Dribbble](https://dribbble.com/lefrost) • [Email](mailto:elcasaboxi@gmail.com) • [GeoGuessr](https://www.geoguessr.com/user/5aa0a68b98cc2c9754e58ee2) • [MagicEden](https://magiceden.io/u/lefrost) • [MyAnimeList](https://myanimelist.net/profile/ollefrost) • [OpenSea](https://opensea.io/lefrost) • [ProductHunt](https://www.producthunt.com/@lefrost) • [Reddit](https://www.reddit.com/user/ollefrost) • [Spotify](https://open.spotify.com/user/gf4tasps3qmm1igne6th9wyj2) • [StackOverflow](https://stackoverflow.com/users/8919391/lefrost) • [Twitter](https://twitter.com/ollefrost) • [Xiangqi.com](https://play.xiangqi.com/@lefrost) –– jan 22
+
+<!-- [Polywork](https://www.polywork.com/lefrost) -->
 
 <!-- # sup ✌️
 
