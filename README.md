@@ -1,4 +1,8 @@
 ### ✌️
+
+##### Frontend by profession, fullstack by practice, procrascinating by default.
+
+
 <!-- [🔲 Ollegen](https://ollegen.vercel.app/)  -->
 <!-- [♟️ Solchess](https://www.solchess.club/)  -->
 
