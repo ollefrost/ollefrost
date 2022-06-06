@@ -1,4 +1,4 @@
-#### frontend by profession, fullstack by practice, procrascinating by default ✌️
+#### don't overthink shit ✌️
 
 #### [🕊️ lef.la](https://lef.la) –– [🌊 suaveseals.com](https://suaveseals.com)
 
