@@ -1,6 +1,6 @@
 #### don't overthink shit ✌️
 
-#### [🕊️ lef.la](https://lef.la) –– ➰ intheloop.fyi (wip) –– [🌊 suaveseals.com](https://suaveseals.com)
+#### [🕊️ lef.la](https://lef.la) –– ➰ intheloop.fyi (wip) –– 🌊 suave.la (wip) -- [🌊 suaveseals.com](https://suaveseals.com)
 
 ##### [🍃 atlas](https://github.com/lefrst/olleatlas) –– [👾 cord](https://github.com/lefrst/ollecord) –– [🌸 svelke](https://github.com/ollefrolefrstst/ollesvelke) –– [🍊 svelte](https://github.com/lefrst/ollesvelte) 
 
