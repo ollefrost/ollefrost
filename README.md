@@ -1,4 +1,4 @@
-👋 **i'm lé!**
+**i'm lé** ✌️
 
 so far, i've established several solo ventures and find myself doing design, development, operational and directorial work for them.
 
