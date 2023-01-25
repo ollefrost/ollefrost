@@ -6,5 +6,5 @@ currently, i'm working on [@suave](https://twitter.com/suaveseals) and [@loop](h
 
 during off hours, i'm mostly either writing unpublished fiction, or [indulging in](https://anilist.co/user/lefrost) japanese pop culture.
 
-i enjoy quiet cafés, impressionist jazz, and a good romance anime. find me on [twitter](https://twitter.com/lefrst) or on my [website](https://lef.la). 
+i enjoy quiet cafés, impressionist jazz, and a good romance manga. find me on [twitter](https://twitter.com/lefrst) or on my [website](https://lef.la). 
 🕊️
