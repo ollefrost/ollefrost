@@ -1,1 +1,1 @@
-quiet cafes, casual chess, and classy jazz. and in between, there's pragmatic code, experimental design, and a couple commitments to show for it. 🥂
+quiet cafes, casual chess, and classy jazz. many episodes of anime, many chapters of manga, many hours of gaming, many miles of travel. and in between, there's pragmatic code, experimental design, and a couple commitments to show for it. 🥂
